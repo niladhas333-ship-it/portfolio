@@ -1,4 +1,3 @@
-# portfolio
 # Setup and Installation Report
 
 ## Tools Installed
