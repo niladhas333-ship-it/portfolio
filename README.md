@@ -31,6 +31,3 @@
 ### Issue 3: Git push rejected
 **Solution:** Initialized Git repository correctly and used:
 ```bash
-git add .
-git commit -m "Initial commit"
-git push origin main
